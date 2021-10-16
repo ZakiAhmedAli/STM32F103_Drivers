@@ -18,6 +18,9 @@ A hardware abstraction layer (HAL) is a logical division of code that serves as 
 ### The HAL provides the following benefits:
 
 Allowing applications to extract as much performance out of the hardware devices as possible
+
 Enabling device drivers to provide direct access to each hardware device, which allows programs to be device-independent
+
 Allowing software programs to communicate with the hardware devices at a general level
+
 Facilitating portability
