@@ -4,8 +4,11 @@ This repo will contain all the derives that I have created. Feel free to comment
 ## MCAL Drivers for STM32F103 "Microcontroller Abstraction Layer"
 
 Every Peripheral divided into 4 files
+
 peripheral_private.h -> Register masking
+
 peripheral_interface.h -> API Prototypes, #defines and structs used in program
+
 peripheral_Program.c -> Peripheral Program: APIs Implementation
 
 ## HAL "Hardware Abstraction Layer"
